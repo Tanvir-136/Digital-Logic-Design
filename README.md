@@ -12,8 +12,8 @@ Below are the main circuits included:
 | `7segment_display.circ`       | 7-Segment Display Decoder                  |
 | `Binary_Counter.circ`         | Binary Counter Circuit                     |
 | `Encoder.circ`                | Simple Binary Encoder                      |
-| `FullAdder.circ`              | 1-bit Full Adder Circuit                   |
-| `HalfAdder.circ`              | 1-bit Half Adder Circuit                   |
+| `FullAdder.circ`              | Full Adder Circuit                         |
+| `HalfAdder.circ`              | Half Adder Circuit                         |
 | `MUX_DMUX(4_1).circ`          | 4-to-1 Multiplexer and Demultiplexer       |
 | `RS_flip_flop.circ`           | RS Flip-Flop using NAND/NOR gates          |
 | `bcd_counter.circ`            | BCD (0-9) Counter                          |
@@ -22,7 +22,7 @@ Below are the main circuits included:
 | `full_adder_subtractor.circ`  | Combined Full Adder & Subtractor Circuit   |
 | `full_subtractor.circ`        | Full Subtractor Circuit                    |
 | `master_slave_JK.circ`        | Master-Slave JK Flip-Flop                  |
-| `mux_function_implementation.circ` | Function implemented using MUX         |
+| `mux_function_implementation.circ` | Function implemented using MUX        |
 | `universal_shift.circ`        | Universal Shift Register                   |
 
 ## 🚀 How to Use
@@ -51,8 +51,8 @@ Feel free to fork the repo, suggest improvements, or open issues if you find bug
 
 If you have any questions, feedback, or collaboration ideas, feel free to reach out:
 
-- 📧 **Email**: tanveer.cse.student@gmail.com  
-- 💬 **Facebook**: [facebook.com/tanvir-136](https://facebook.com/tanvir.islam.136)  
+- 📧 **Email**: tanvir12islam34@gmail.com  
+- 💬 **Facebook**: [facebook.com/Tanvir-Islam](https://facebook.com/tanvir.islam.136)  
 - 🐙 **GitHub**: [github.com/Tanvir-Islam](https://github.com/Tanvir-136)
 
 ---
