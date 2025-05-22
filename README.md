@@ -40,14 +40,21 @@ Below are the main circuits included:
 
 ## 👨‍💻 Author
 
-**Md. Tanveer Islam**  
+**Md. Tanvir Islam**  
 Student of Computer Science & Engineering  
-3rd Semester
 
 ## ⭐ Contributions
 
 Feel free to fork the repo, suggest improvements, or open issues if you find bugs or want enhancements!
 
+## 📬 Contact Me
+
+If you have any questions, feedback, or collaboration ideas, feel free to reach out:
+
+- 📧 **Email**: tanveer.cse.student@gmail.com  
+- 💬 **Facebook**: [facebook.com/tanvir-136](https://facebook.com/tanvir.islam.136)  
+- 🐙 **GitHub**: [github.com/Tanvir-Islam](https://github.com/Tanvir-136)
+
 ---
 
-Thank you for checking out this project! Happy learning 💡
+Thank you for checking out this project! Happy learning
